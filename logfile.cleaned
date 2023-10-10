@@ -1,0 +1,30 @@
+Script started on Thu 17 Feb 2022 08:06:30 PM EST
+[ataverascrespo@loki lab2main]$ ./directory_file_scan /home/COIS/3380/lab3
+-rw-rw-rw-	1001	1001	16436089	2017-07-30 11:44:47	/home/COIS/3380/lab3/lab3_dir.tar.gz
+-rw-rw-rw-	1001	1001	379	2021-04-14 08:14:01	/home/COIS/3380/lab3/small_world.txt
+-rw-rw-rw-	1001	1001	379	2021-04-14 08:14:01	/home/COIS/3380/lab3/small_world.txt
+-rw-rw-rw-	1001	1001	1179	1980-01-01 00:01:28	/home/COIS/3380/lab3/C128.XTK
+[ataverascrespo@loki lab2main]$ ./directory_file_scan /home/COIS/3380
+-rw-r--r--	1001	1001	140319036	2021-01-18 13:16:36	/home/COIS/3380/canada_Pcodes.csv
+-rwxr-xr-x	1001	1001	320	2021-01-07 09:58:31	/home/COIS/3380/make_archives.sh
+-rwxrwxr--	1001	1001	3464447	2022-01-12 09:39:37	/home/COIS/3380/lab0_ip_addresses.txt
+-rw-r--r--	1001	1001	1178009	2020-09-29 12:53:17	/home/COIS/3380/fail2ban.log-20200929
+[ataverascrespo@loki lab2main]$ ./directory_file_scan /home/COIS
+-rw-r--r--	1001	1001	8875	2021-05-01 09:57:21	/home/COIS/.nanorc
+-rwxr--r-x	1001	1001	709	2021-03-06 12:42:16	/home/COIS/test_solution.sh
+-rw-r--r--	1001	1001	8875	2021-05-01 09:57:21	/home/COIS/.nanorc
+-rwxr--r-x	1001	1001	709	2021-03-06 12:42:16	/home/COIS/test_solution.sh
+[ataverascrespo@loki lab2main]$ ./directory_file_scan 
+-rwxrwxr-x	1143	1151	13144	2022-02-17 20:04:22	./directory_file_scan
+-rw-rw-r--	1143	1151	0	2022-02-17 20:06:30	./lab2_logfile.txt
+-rw-rw-r--	1143	1151	0	2022-02-17 20:06:30	./lab2_logfile.txt
+-rw-rw-r--	1143	1151	10278	2022-02-17 20:04:21	./directory_file_scan.c
+[ataverascrespo@loki lab2main]$ ./directory_file_scan ~/3380/lab1
+-rw-rw-r--	1143	1151	2994	2022-01-26 19:26:31	/home/ataverascrespo/3380/lab1/lab1_logfile.txt
+-rw-rw-r--	1143	1151	190	2022-01-26 19:26:27	/home/ataverascrespo/3380/lab1/top_10_target_names.txt
+-rw-rw-r--	1143	1151	2643	2022-01-26 19:27:58	/home/ataverascrespo/3380/lab1/ataverascrespo_lab1_logfile.cleaned
+-rwxrw-r--	1143	1151	1427	2022-01-26 19:21:38	/home/ataverascrespo/3380/lab1/lab1_ipslog.sh
+[ataverascrespo@loki lab2main]$ exit
+exit
+
+Script done on Thu 17 Feb 2022 08:07:53 PM EST
